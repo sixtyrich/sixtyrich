@@ -9,11 +9,11 @@
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
 <a href="https://www.instagram.com/riccardo__maio/">
-  <img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=ffffff" alt="Instagram Badge"/>
 </a>
 
-<a href="https://twitter.com/abhisheknaiidu">
-  <img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" />
+<a href="https://www.linkedin.com/in/riccardo-maio/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=ffffff" alt="LinkedIn Badge"/>
 </a>
 
 <br><br>
