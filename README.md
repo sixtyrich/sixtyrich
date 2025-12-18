@@ -55,7 +55,7 @@
 ---
 
 ## 🚧 Some Projects
-- [https://github.com/sixtyrichch/Orientamento](School Website)
+- <a href="[https://www.instagram.com/riccardo__maio/](https://github.com/sixtyrichch/Orientamento)">School Website</a>
 
 
 [tech_tools_anchor]: #bonjour--
