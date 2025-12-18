@@ -55,7 +55,7 @@
 ---
 
 ## 🚧 Some Projects
-- Coming soon...
+- [https://github.com/sixtyrichch/Orientamento](School Website)
 
 
 [tech_tools_anchor]: #bonjour--
