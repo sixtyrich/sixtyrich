@@ -55,7 +55,7 @@
 ---
 
 ## 🚧 Some Projects
-- <a href="https://github.com/sixtyrichch/Orientamento">School Website</a>
+- <a href="https://github.com/Thunder-webdev/Orientamento">School Website</a>
 - <a href="https://github.com/sixtyrich/FlappyBird_inJS">FlappyBird in JavaScript</a>
 - <a href="https://github.com/sixtyrich/regime-democratico">Website of democratic countries</a>
 
